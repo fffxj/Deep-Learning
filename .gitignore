@@ -1,2 +1,12 @@
+# jupyter notebook cache files
 .ipynb_checkpoints/
 __pycache__/
+
+# deep learning large files (size > 100M)
+ResNet50.h5
+yolo.h5
+imagenet-vgg-verydeep-19.mat
+
+X.npy
+X_dev.npy
+glove.6B.50d.txt
